@@ -1,0 +1,9 @@
+# MODULES
+node_modules
+
+# ! IMPORTANT TO UNCOMMENT OUT BEFORE PUSHING TO GITHUB
+# .env
+
+.DS_Store
+
+/build
